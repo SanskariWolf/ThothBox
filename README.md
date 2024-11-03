@@ -1,6 +1,6 @@
 # ThothBox: The Ultimate Cybersecurity Toolkit
 
-![ThothBox Logo](path/to/logo.png) <!-- Add logo path -->
+![ThothBox Logo](../main/ThothBox_Logo_BlackThemed.svg) <!-- Add logo path -->
 
 ## Overview
 
