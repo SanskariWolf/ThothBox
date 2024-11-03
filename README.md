@@ -100,15 +100,11 @@ The schematic detailing the connections between components is available in the G
 
 ## Code & Documentation
 
-The source code, schematics, and documentation can be found on our [GitHub repository](https://github.com/cifertech/thothbox). Feel free to explore, contribute, and share your feedback!
+The source code, schematics, and documentation can be found on our [GitHub repository](https://github.com/SanskariWolf/ThothBox). Feel free to explore, contribute, and share your feedback!
 
 ## Contributing
 
 We welcome contributions to ThothBox! If you have suggestions, improvements, or bug fixes, please create a pull request or open an issue on GitHub.
-
-## License
-
-ThothBox is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
 
 ## Acknowledgements
 
